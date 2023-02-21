@@ -2,5 +2,5 @@ apiVersion: v1
 appVersion: "1.0"
 description: Deploy Go or Python microservice
 name: microservice
-version: 0.0.1
+version: 1.0.0
 
