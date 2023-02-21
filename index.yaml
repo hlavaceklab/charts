@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  microservice:
+  - apiVersion: v1
+    appVersion: v1.0.0
+    created: "2023-02-21T14:17:50.633602234Z"
+    description: Deploy Go or Python microservice
+    digest: 59b9043921811fedd15b1a2d2d93df28b8e46de09ce98716b4f48de0dd72a75e
+    name: microservice
+    urls:
+    - https://github.com/hlavaceklab/charts/releases/download/microservice-v1.0.0/microservice-v1.0.0.tgz
+    version: v1.0.0
+  website-app:
+  - apiVersion: v1
+    appVersion: v1.0.0
+    created: "2023-02-21T14:17:50.783976431Z"
+    description: Deploy custom web site app
+    digest: 0cb94f8038797d30eee0146036929b5df3bbd54c39c3b3de0feb41cebdd03f33
+    name: website-app
+    urls:
+    - https://github.com/hlavaceklab/charts/releases/download/website-app-v1.0.0/website-app-v1.0.0.tgz
+    version: v1.0.0
+generated: "2023-02-21T14:17:50.783981331Z"
